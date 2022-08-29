@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Advance JS</title>
+    <script>
+        function prom(complete){
+            return new Promise(function(resolve,reject){
+            console.log("Fetching data, please wait!")
+            if(complete){
+                resolve("I am successful.");
+            }
+            else{
+                reject("I am failed.");
+            }
+        })
+        }
+        let onfulfilment=(result)=>{
+            console.log(result)
+        }
+        let onRejection=(error)=>{
+            console.log(error)
+        }
+        prom(true).then(onfulfilment);
+        prom(true).catch(onRejection);
+        // console.log(prom(true))
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

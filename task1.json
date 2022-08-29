@@ -1,0 +1,702 @@
+[
+    {
+        "Movie name": "The Shawshank Redemption",
+        "Year": 1994,
+        "Time": "142 ",
+        "Metascore": "81        ",
+        "movie urls": "https://www.imdb.com/title/tt0111161/"
+    },
+    {
+        "Movie name": "The Godfather",
+        "Year": 1972,
+        "Time": "175 ",
+        "Metascore": "100        ",
+        "movie urls": "https://www.imdb.com/title/tt0068646/"
+    },
+    {
+        "Movie name": "The Dark Knight",
+        "Year": 2008,
+        "Time": "152 ",
+        "Metascore": "84        ",
+        "movie urls": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+        "Movie name": "The Lord of the Rings: The Return of the King",
+        "Year": 2003,
+        "Time": "201 ",
+        "Metascore": "94        ",
+        "movie urls": "https://www.imdb.com/title/tt0167260/"
+    },
+    {
+        "Movie name": "Schindler's List",
+        "Year": 1993,
+        "Time": "195 ",
+        "Metascore": "94        ",
+        "movie urls": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+        "Movie name": "The Godfather Part II",
+        "Year": 1974,
+        "Time": "202 ",
+        "Metascore": "90        ",
+        "movie urls": "https://www.imdb.com/title/tt0071562/"
+    },
+    {
+        "Movie name": "12 Angry Men",
+        "Year": 1957,
+        "Time": "96 ",
+        "Metascore": "96        ",
+        "movie urls": "https://www.imdb.com/title/tt0050083/"
+    },
+    {
+        "Movie name": "Jai Bhim",
+        "Year": 2021,
+        "Time": "164 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt15097216/"
+    },
+    {
+        "Movie name": "Pulp Fiction",
+        "Year": 1994,
+        "Time": "154 ",
+        "Metascore": "94        ",
+        "movie urls": "https://www.imdb.com/title/tt0110912/"
+    },
+    {
+        "Movie name": "Inception",
+        "Year": 2010,
+        "Time": "148 ",
+        "Metascore": "74        ",
+        "movie urls": "https://www.imdb.com/title/tt1375666/"
+    },
+    {
+        "Movie name": "The Lord of the Rings: The Two Towers",
+        "Year": 2002,
+        "Time": "179 ",
+        "Metascore": "87        ",
+        "movie urls": "https://www.imdb.com/title/tt0167261/"
+    },
+    {
+        "Movie name": "Fight Club",
+        "Year": 1999,
+        "Time": "139 ",
+        "Metascore": "66        ",
+        "movie urls": "https://www.imdb.com/title/tt0137523/"
+    },
+    {
+        "Movie name": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": 2001,
+        "Time": "178 ",
+        "Metascore": "92        ",
+        "movie urls": "https://www.imdb.com/title/tt0120737/"
+    },
+    {
+        "Movie name": "Forrest Gump",
+        "Year": 1994,
+        "Time": "142 ",
+        "Metascore": "82        ",
+        "movie urls": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "Movie name": "Il buono, il brutto, il cattivo",
+        "Year": 1966,
+        "Time": "161 ",
+        "Metascore": "90        ",
+        "movie urls": "https://www.imdb.com/title/tt0060196/"
+    },
+    {
+        "Movie name": "Soorarai Pottru",
+        "Year": 2020,
+        "Time": "153 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt10189514/"
+    },
+    {
+        "Movie name": "The Matrix",
+        "Year": 1999,
+        "Time": "136 ",
+        "Metascore": "73        ",
+        "movie urls": "https://www.imdb.com/title/tt0133093/"
+    },
+    {
+        "Movie name": "Goodfellas",
+        "Year": 1990,
+        "Time": "145 ",
+        "Metascore": "90        ",
+        "movie urls": "https://www.imdb.com/title/tt0099685/"
+    },
+    {
+        "Movie name": "The Empire Strikes Back",
+        "Year": 1980,
+        "Time": "124 ",
+        "Metascore": "82        ",
+        "movie urls": "https://www.imdb.com/title/tt0080684/"
+    },
+    {
+        "Movie name": "One Flew Over the Cuckoo's Nest",
+        "Year": 1975,
+        "Time": "133 ",
+        "Metascore": "84        ",
+        "movie urls": "https://www.imdb.com/title/tt0073486/"
+    },
+    {
+        "Movie name": "Top Gun: Maverick",
+        "Year": 2022,
+        "Time": "130 ",
+        "Metascore": "78        ",
+        "movie urls": "https://www.imdb.com/title/tt1745960/"
+    },
+    {
+        "Movie name": "Interstellar",
+        "Year": 2014,
+        "Time": "169 ",
+        "Metascore": "74        ",
+        "movie urls": "https://www.imdb.com/title/tt0816692/"
+    },
+    {
+        "Movie name": "Cidade de Deus",
+        "Year": 2002,
+        "Time": "130 ",
+        "Metascore": "79        ",
+        "movie urls": "https://www.imdb.com/title/tt0317248/"
+    },
+    {
+        "Movie name": "Sen to Chihiro no kamikakushi",
+        "Year": 2001,
+        "Time": "125 ",
+        "Metascore": "96        ",
+        "movie urls": "https://www.imdb.com/title/tt0245429/"
+    },
+    {
+        "Movie name": "Saving Private Ryan",
+        "Year": 1998,
+        "Time": "169 ",
+        "Metascore": "91        ",
+        "movie urls": "https://www.imdb.com/title/tt0120815/"
+    },
+    {
+        "Movie name": "The Green Mile",
+        "Year": 1999,
+        "Time": "189 ",
+        "Metascore": "61        ",
+        "movie urls": "https://www.imdb.com/title/tt0120689/"
+    },
+    {
+        "Movie name": "La vita \u00e8 bella",
+        "Year": 1997,
+        "Time": "116 ",
+        "Metascore": "59        ",
+        "movie urls": "https://www.imdb.com/title/tt0118799/"
+    },
+    {
+        "Movie name": "Se7en",
+        "Year": 1995,
+        "Time": "127 ",
+        "Metascore": "65        ",
+        "movie urls": "https://www.imdb.com/title/tt0114369/"
+    },
+    {
+        "Movie name": "Terminator 2: Judgment Day",
+        "Year": 1991,
+        "Time": "137 ",
+        "Metascore": "75        ",
+        "movie urls": "https://www.imdb.com/title/tt0103064/"
+    },
+    {
+        "Movie name": "The Silence of the Lambs",
+        "Year": 1991,
+        "Time": "118 ",
+        "Metascore": "85        ",
+        "movie urls": "https://www.imdb.com/title/tt0102926/"
+    },
+    {
+        "Movie name": "Star Wars",
+        "Year": 1977,
+        "Time": "121 ",
+        "Metascore": "90        ",
+        "movie urls": "https://www.imdb.com/title/tt0076759/"
+    },
+    {
+        "Movie name": "Seppuku",
+        "Year": 1962,
+        "Time": "133 ",
+        "Metascore": "85        ",
+        "movie urls": "https://www.imdb.com/title/tt0056058/"
+    },
+    {
+        "Movie name": "Shichinin no samurai",
+        "Year": 1954,
+        "Time": "207 ",
+        "Metascore": "98        ",
+        "movie urls": "https://www.imdb.com/title/tt0047478/"
+    },
+    {
+        "Movie name": "It's a Wonderful Life",
+        "Year": 1946,
+        "Time": "130 ",
+        "Metascore": "89        ",
+        "movie urls": "https://www.imdb.com/title/tt0038650/"
+    },
+    {
+        "Movie name": "Kaithi",
+        "Year": 2019,
+        "Time": "145 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt9900782/"
+    },
+    {
+        "Movie name": "Asuran",
+        "Year": 2019,
+        "Time": "141 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt9477520/"
+    },
+    {
+        "Movie name": "Vikram",
+        "Year": 2022,
+        "Time": "175 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt9179430/"
+    },
+    {
+        "Movie name": "96",
+        "Year": 2018,
+        "Time": "158 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt7019842/"
+    },
+    {
+        "Movie name": "Gisaengchung",
+        "Year": 2019,
+        "Time": "132 ",
+        "Metascore": "96        ",
+        "movie urls": "https://www.imdb.com/title/tt6751668/"
+    },
+    {
+        "Movie name": "Whiplash",
+        "Year": 2014,
+        "Time": "106 ",
+        "Metascore": "88        ",
+        "movie urls": "https://www.imdb.com/title/tt2582802/"
+    },
+    {
+        "Movie name": "The Intouchables",
+        "Year": 2011,
+        "Time": "112 ",
+        "Metascore": "57        ",
+        "movie urls": "https://www.imdb.com/title/tt1675434/"
+    },
+    {
+        "Movie name": "Sardar Udham",
+        "Year": 2021,
+        "Time": "164 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt10280296/"
+    },
+    {
+        "Movie name": "The Prestige",
+        "Year": 2006,
+        "Time": "130 ",
+        "Metascore": "66        ",
+        "movie urls": "https://www.imdb.com/title/tt0482571/"
+    },
+    {
+        "Movie name": "The Departed",
+        "Year": 2006,
+        "Time": "151 ",
+        "Metascore": "85        ",
+        "movie urls": "https://www.imdb.com/title/tt0407887/"
+    },
+    {
+        "Movie name": "The Pianist",
+        "Year": 2002,
+        "Time": "150 ",
+        "Metascore": "85        ",
+        "movie urls": "https://www.imdb.com/title/tt0253474/"
+    },
+    {
+        "Movie name": "Gladiator",
+        "Year": 2000,
+        "Time": "155 ",
+        "Metascore": "67        ",
+        "movie urls": "https://www.imdb.com/title/tt0172495/"
+    },
+    {
+        "Movie name": "American History X",
+        "Year": 1998,
+        "Time": "119 ",
+        "Metascore": "62        ",
+        "movie urls": "https://www.imdb.com/title/tt0120586/"
+    },
+    {
+        "Movie name": "The Usual Suspects",
+        "Year": 1995,
+        "Time": "106 ",
+        "Metascore": "77        ",
+        "movie urls": "https://www.imdb.com/title/tt0114814/"
+    },
+    {
+        "Movie name": "L\u00e9on",
+        "Year": 1994,
+        "Time": "110 ",
+        "Metascore": "64        ",
+        "movie urls": "https://www.imdb.com/title/tt0110413/"
+    },
+    {
+        "Movie name": "The Lion King",
+        "Year": 1994,
+        "Time": "88 ",
+        "Metascore": "88        ",
+        "movie urls": "https://www.imdb.com/title/tt0110357/"
+    },
+    {
+        "Movie name": "Nuovo Cinema Paradiso",
+        "Year": 1988,
+        "Time": "155 ",
+        "Metascore": "80        ",
+        "movie urls": "https://www.imdb.com/title/tt0095765/"
+    },
+    {
+        "Movie name": "Hotaru no haka",
+        "Year": 1988,
+        "Time": "89 ",
+        "Metascore": "94        ",
+        "movie urls": "https://www.imdb.com/title/tt0095327/"
+    },
+    {
+        "Movie name": "Back to the Future",
+        "Year": 1985,
+        "Time": "116 ",
+        "Metascore": "87        ",
+        "movie urls": "https://www.imdb.com/title/tt0088763/"
+    },
+    {
+        "Movie name": "Apocalypse Now",
+        "Year": 1979,
+        "Time": "147 ",
+        "Metascore": "94        ",
+        "movie urls": "https://www.imdb.com/title/tt0078788/"
+    },
+    {
+        "Movie name": "Alien",
+        "Year": 1979,
+        "Time": "117 ",
+        "Metascore": "89        ",
+        "movie urls": "https://www.imdb.com/title/tt0078748/"
+    },
+    {
+        "Movie name": "Once Upon a Time in the West",
+        "Year": 1968,
+        "Time": "165 ",
+        "Metascore": "80        ",
+        "movie urls": "https://www.imdb.com/title/tt0064116/"
+    },
+    {
+        "Movie name": "Psycho",
+        "Year": 1960,
+        "Time": "109 ",
+        "Metascore": "97        ",
+        "movie urls": "https://www.imdb.com/title/tt0054215/"
+    },
+    {
+        "Movie name": "Rear Window",
+        "Year": 1954,
+        "Time": "112 ",
+        "Metascore": "100        ",
+        "movie urls": "https://www.imdb.com/title/tt0047396/"
+    },
+    {
+        "Movie name": "Casablanca",
+        "Year": 1942,
+        "Time": "102 ",
+        "Metascore": "100        ",
+        "movie urls": "https://www.imdb.com/title/tt0034583/"
+    },
+    {
+        "Movie name": "Modern Times",
+        "Year": 1936,
+        "Time": "87 ",
+        "Metascore": "96        ",
+        "movie urls": "https://www.imdb.com/title/tt0027977/"
+    },
+    {
+        "Movie name": "City Lights",
+        "Year": 1931,
+        "Time": "87 ",
+        "Metascore": "99        ",
+        "movie urls": "https://www.imdb.com/title/tt0021749/"
+    },
+    {
+        "Movie name": "Capharna\u00fcm",
+        "Year": 2018,
+        "Time": "126 ",
+        "Metascore": "75        ",
+        "movie urls": "https://www.imdb.com/title/tt8267604/"
+    },
+    {
+        "Movie name": "Joker",
+        "Year": 2019,
+        "Time": "122 ",
+        "Metascore": "59        ",
+        "movie urls": "https://www.imdb.com/title/tt7286456/"
+    },
+    {
+        "Movie name": "Kimi no na wa.",
+        "Year": 2016,
+        "Time": "106 ",
+        "Metascore": "79        ",
+        "movie urls": "https://www.imdb.com/title/tt5311514/"
+    },
+    {
+        "Movie name": "Spider-Man: Into the Spider-Verse",
+        "Year": 2018,
+        "Time": "117 ",
+        "Metascore": "87        ",
+        "movie urls": "https://www.imdb.com/title/tt4633694/"
+    },
+    {
+        "Movie name": "Avengers: Endgame",
+        "Year": 2019,
+        "Time": "181 ",
+        "Metascore": "78        ",
+        "movie urls": "https://www.imdb.com/title/tt4154796/"
+    },
+    {
+        "Movie name": "Avengers: Infinity War",
+        "Year": 2018,
+        "Time": "149 ",
+        "Metascore": "68        ",
+        "movie urls": "https://www.imdb.com/title/tt4154756/"
+    },
+    {
+        "Movie name": "Coco",
+        "Year": 2017,
+        "Time": "105 ",
+        "Metascore": "81        ",
+        "movie urls": "https://www.imdb.com/title/tt2380307/"
+    },
+    {
+        "Movie name": "Django Unchained",
+        "Year": 2012,
+        "Time": "165 ",
+        "Metascore": "81        ",
+        "movie urls": "https://www.imdb.com/title/tt1853728/"
+    },
+    {
+        "Movie name": "The Dark Knight Rises",
+        "Year": 2012,
+        "Time": "164 ",
+        "Metascore": "78        ",
+        "movie urls": "https://www.imdb.com/title/tt1345836/"
+    },
+    {
+        "Movie name": "Drishyam 2",
+        "Year": 2021,
+        "Time": "152 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt12361178/"
+    },
+    {
+        "Movie name": "3 Idiots",
+        "Year": 2009,
+        "Time": "170 ",
+        "Metascore": "67        ",
+        "movie urls": "https://www.imdb.com/title/tt1187043/"
+    },
+    {
+        "Movie name": "K.G.F: Chapter 2",
+        "Year": 2022,
+        "Time": "168 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt10698680/"
+    },
+    {
+        "Movie name": "Shershaah",
+        "Year": 2021,
+        "Time": "135 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt10295212/"
+    },
+    {
+        "Movie name": "WALL\u00b7E",
+        "Year": 2008,
+        "Time": "98 ",
+        "Metascore": "95        ",
+        "movie urls": "https://www.imdb.com/title/tt0910970/"
+    },
+    {
+        "Movie name": "The Lives of Others",
+        "Year": 2006,
+        "Time": "137 ",
+        "Metascore": "89        ",
+        "movie urls": "https://www.imdb.com/title/tt0405094/"
+    },
+    {
+        "Movie name": "Oldeuboi",
+        "Year": 2003,
+        "Time": "101 ",
+        "Metascore": "77        ",
+        "movie urls": "https://www.imdb.com/title/tt0364569/"
+    },
+    {
+        "Movie name": "Memento",
+        "Year": 2000,
+        "Time": "113 ",
+        "Metascore": "80        ",
+        "movie urls": "https://www.imdb.com/title/tt0209144/"
+    },
+    {
+        "Movie name": "American Beauty",
+        "Year": 1999,
+        "Time": "122 ",
+        "Metascore": "84        ",
+        "movie urls": "https://www.imdb.com/title/tt0169547/"
+    },
+    {
+        "Movie name": "Mononoke-hime",
+        "Year": 1997,
+        "Time": "134 ",
+        "Metascore": "76        ",
+        "movie urls": "https://www.imdb.com/title/tt0119698/"
+    },
+    {
+        "Movie name": "Braveheart",
+        "Year": 1995,
+        "Time": "178 ",
+        "Metascore": "68        ",
+        "movie urls": "https://www.imdb.com/title/tt0112573/"
+    },
+    {
+        "Movie name": "Idi i smotri",
+        "Year": 1985,
+        "Time": "142 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt0091251/"
+    },
+    {
+        "Movie name": "Aliens",
+        "Year": 1986,
+        "Time": "137 ",
+        "Metascore": "84        ",
+        "movie urls": "https://www.imdb.com/title/tt0090605/"
+    },
+    {
+        "Movie name": "Amadeus",
+        "Year": 1984,
+        "Time": "160 ",
+        "Metascore": "88        ",
+        "movie urls": "https://www.imdb.com/title/tt0086879/"
+    },
+    {
+        "Movie name": "Raiders of the Lost Ark",
+        "Year": 1981,
+        "Time": "115 ",
+        "Metascore": "85        ",
+        "movie urls": "https://www.imdb.com/title/tt0082971/"
+    },
+    {
+        "Movie name": "Das Boot",
+        "Year": 1981,
+        "Time": "149 ",
+        "Metascore": "86        ",
+        "movie urls": "https://www.imdb.com/title/tt0082096/"
+    },
+    {
+        "Movie name": "The Shining",
+        "Year": 1980,
+        "Time": "146 ",
+        "Metascore": "66        ",
+        "movie urls": "https://www.imdb.com/title/tt0081505/"
+    },
+    {
+        "Movie name": "Tengoku to jigoku",
+        "Year": 1963,
+        "Time": "143 ",
+        "Metascore": "90        ",
+        "movie urls": "https://www.imdb.com/title/tt0057565/"
+    },
+    {
+        "Movie name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Year": 1964,
+        "Time": "95 ",
+        "Metascore": "97        ",
+        "movie urls": "https://www.imdb.com/title/tt0057012/"
+    },
+    {
+        "Movie name": "Witness for the Prosecution",
+        "Year": 1957,
+        "Time": "116 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt0051201/"
+    },
+    {
+        "Movie name": "Paths of Glory",
+        "Year": 1957,
+        "Time": "88 ",
+        "Metascore": "90        ",
+        "movie urls": "https://www.imdb.com/title/tt0050825/"
+    },
+    {
+        "Movie name": "Sunset Blvd.",
+        "Year": 1950,
+        "Time": "110 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt0043014/"
+    },
+    {
+        "Movie name": "The Great Dictator",
+        "Year": 1940,
+        "Time": "125 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt0032553/"
+    },
+    {
+        "Movie name": "Hamilton",
+        "Year": 2020,
+        "Time": "160 ",
+        "Metascore": "90        ",
+        "movie urls": "https://www.imdb.com/title/tt8503618/"
+    },
+    {
+        "Movie name": "Ratsasan",
+        "Year": 2018,
+        "Time": "170 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt7060344/"
+    },
+    {
+        "Movie name": "Ayla: The Daughter of War",
+        "Year": 2017,
+        "Time": "125 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt6316138/"
+    },
+    {
+        "Movie name": "Dangal",
+        "Year": 2016,
+        "Time": "161 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt5074352/"
+    },
+    {
+        "Movie name": "Drishyam",
+        "Year": 2013,
+        "Time": "160 ",
+        "Metascore": "@",
+        "movie urls": "https://www.imdb.com/title/tt3417422/"
+    },
+    {
+        "Movie name": "Jagten",
+        "Year": 2012,
+        "Time": "115 ",
+        "Metascore": "77        ",
+        "movie urls": "https://www.imdb.com/title/tt2106476/"
+    },
+    {
+        "Movie name": "Jodaeiye Nader az Simin",
+        "Year": 2011,
+        "Time": "123 ",
+        "Metascore": "95        ",
+        "movie urls": "https://www.imdb.com/title/tt1832382/"
+    }
+]

@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<title>ATM Machine By Gudia</title>
+</head>
+<body>
+  <script>
+    function username(){
+        var name=prompt("what is your name?")
+        alert("Welcome "+name)
+    }
+    username()
+    var balance = 1000;
+  
+    function balances() {
+      alert('Your current balance is: '+balance);
+      atm();
+    }
+  
+    function deposits() {
+      var deposit = parseFloat(prompt('How much would you like to deposit?'));
+      if (isNaN(deposit) || deposit === '') {
+        alert('Error: please enter a number!');
+        deposits();
+      } else {
+        balance += deposit;
+        balances();
+      }
+    }
+    function withdrawals() {
+      var withdrawal = parseFloat(prompt('How much would you like to withdrawal?'));
+      if (isNaN(withdrawal) || withdrawal === '') {
+        alert('Error: please enter a number!');
+        withdrawals();
+      } else {
+        balance -= withdrawal;
+        balances();
+      }
+    }
+  
+    function error() {
+      alert('Error: accepted numbers are 1 through 4.');
+      atm();
+    }
+  
+    function exits() {
+      var confirm_leave = confirm('You have selected exit.');
+      if (confirm_leave) {
+        window.close();
+      } else {
+        atm();
+      }
+    }
+    
+    function atm() {
+  
+      var choice = parseInt(prompt('Select a choice 1.) Balance 2.) Deposit 3.) Withdrawal 4.) Exit')); 
+  
+      if (choice === 1) {
+        balances();
+      } else if (choice === 2) {
+        deposits();
+      } else if (choice === 3) {
+        withdrawals();
+      } else if (choice === 4) {
+        exits();
+      } else {
+        error();
+      }
+    }
+  
+    atm();
+  
+  </script>
+  
+</body>
+</html>
